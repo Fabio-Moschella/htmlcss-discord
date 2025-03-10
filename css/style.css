@@ -79,6 +79,7 @@ p {
 }
 .italia {
   vertical-align: middle;
+  width: 30px;
 }
 .title-viola {
   color: #7289da;
@@ -170,8 +171,9 @@ li {
   /*background-color: pink;*/
   display: flex;
   flex-direction: column;
-  justify-content: center;
+
   width: 400px;
+  text-align: start;
 
   /*min-height: 240px;
   border: 2px dashed black;*/
@@ -247,5 +249,5 @@ li {
 }
 h3 {
   font-size: 2rem;
-  padding-bottom: 5px;
+  padding-bottom: 20px;
 }
