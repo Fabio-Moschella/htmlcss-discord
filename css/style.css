@@ -59,6 +59,7 @@ p {
   margin-bottom: 40px;
   padding: 10px 5px;
   background-color: #7289da;
+  color: white;
   border-radius: 999px;
   border: 0px;
 }
@@ -76,6 +77,18 @@ p {
 .italia {
   vertical-align: middle;
 }
+.title-viola {
+  color: #7289da;
+}
+.register {
+  vertical-align: middle;
+  padding: 10px 5px;
+  background-color: #7289da;
+  color: white;
+  border-radius: 999px;
+  border: 0px;
+}
+
 /*HEADER*/
 
 .menu-wrapper {
@@ -89,8 +102,8 @@ p {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  /* background-color: burlywood;*/
-  border: 1px dashed black;
+  /* background-color: burlywood;
+  border: 1px dashed black;*/
 }
 
 .menu-links {
@@ -110,16 +123,16 @@ p {
   background-size: 90%;
 
   /*background-color: blue;*/
-  min-height: 300px;
+  /*min-height: 300px;*/
 }
 
 .top-hub {
   /*background-color: pink;*/
   max-width: 700px;
   margin: 0 auto;
-  min-height: 240px;
+  /* min-height: 240px;
 
-  border: 1px dashed black;
+  border: 1px dashed black;*/
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -142,8 +155,8 @@ p {
 .img1 {
   /*background-color: rgb(24, 8, 248);*/
   width: 700px;
-  /* min-height: 240px;*/
-  border: 2px dashed black;
+  /* min-height: 240px;
+  border: 2px dashed black;*/
 }
 .text1 {
   /*background-color: pink;*/
@@ -151,8 +164,8 @@ p {
   flex-direction: column;
   justify-content: center;
   width: 400px;
-  /*min-height: 240px;*/
-  border: 2px dashed black;
+  /*min-height: 240px;
+  border: 2px dashed black;*/
 }
 .main-hub2 {
   margin: 0 auto;
@@ -173,8 +186,8 @@ p {
 .img4 {
   /*background-color: rgb(2, 43, 1);*/
   width: 1100px;
-  /*min-height: 600px;*/
-  border: 2px dashed black;
+  /*min-height: 600px;
+  border: 2px dashed black;*/
   text-align: center;
 }
 
@@ -187,15 +200,15 @@ p {
   padding-top: 10px;
 }
 .description-hub1 {
-  background-color: pink;
+  /* background-color: pink;*/
   width: 30%;
-  /*min-height: 400px;*/
-  border: 2px dashed black;
+  /*min-height: 400px;
+  border: 2px dashed black;*/
 }
 .description-hub2 {
-  background-color: rgb(0, 183, 255);
+  /*background-color: rgb(0, 183, 255);*/
   width: 17.5%;
-  border: 2px dashed white;
+  /* border: 2px dashed white;*/
 }
 
 .footer-menu {
@@ -204,17 +217,17 @@ p {
   padding: 5px 0;
   display: flex;
   justify-content: space-between;
-  background-color: rgb(129, 215, 241);
-  border: 1px dashed black;
+  /*background-color: rgb(129, 215, 241);
+  border: 1px dashed black;*/
 }
 .footer-logo {
-  background-color: pink;
-  border: 2px dashed black;
+  /* background-color: pink;
+  border: 2px dashed black;*/
   margin: 0;
   padding: 2px;
 }
 .border-footer {
   max-width: 1100px;
-  border: 1px solid whitesmoke;
+  border: 1px solid #7289da;
   margin: 20px auto;
 }
